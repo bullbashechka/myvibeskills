@@ -1,0 +1,4 @@
+interface:
+  display_name: "Steps Edge Cases"
+  short_description: "Discuss task edge cases and solution options"
+  default_prompt: "Take the task I reference with @ and walk me through edge cases and solution options step by step from a product UX perspective."

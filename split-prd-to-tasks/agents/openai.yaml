@@ -1,0 +1,4 @@
+interface:
+  display_name: "Split PRD to Tasks"
+  short_description: "Break PRD.md into phases and task files"
+  default_prompt: "Split PRD.md into implementation phases and tasks, save TASKS.md, and create one task file per task."

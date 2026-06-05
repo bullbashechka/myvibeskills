@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create PRD"
+  short_description: "Turn an app idea into a clear PRD"
+  default_prompt: "Help me turn this app idea into a PRD by asking concise multiple-choice questions, then write PRD.md."

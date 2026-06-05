@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plan and Execute"
+  short_description: "Write an implementation plan and work through it"
+  default_prompt: "ну все супер, решили. теперь давай план реализации напишем и будем по нему работать"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review PRD"
+  short_description: "Review PRD.md and complete missing decisions"
+  default_prompt: "Review PRD.md, ask any open questions with answer options, then update the PRD in the same format."
