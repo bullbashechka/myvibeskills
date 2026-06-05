@@ -1,0 +1,4 @@
+interface:
+  display_name: "Commit Message From Diff"
+  short_description: "Draft full commit messages from uncommitted changes"
+  default_prompt: "Use $commit-message-from-diff to inspect uncommitted changes and draft a complete commit message with validation notes."
