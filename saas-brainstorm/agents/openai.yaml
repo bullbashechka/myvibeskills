@@ -1,0 +1,4 @@
+interface:
+  display_name: "SaaS Brainstorm"
+  short_description: "Оценка SaaS MVP идей и ниш"
+  default_prompt: "Use $saas-brainstorm to evaluate this SaaS MVP idea."
